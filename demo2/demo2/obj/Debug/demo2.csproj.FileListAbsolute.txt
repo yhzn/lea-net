@@ -1,0 +1,6 @@
+E:\net\练习\learning\demo2\demo2\bin\Debug\demo2.exe.config
+E:\net\练习\learning\demo2\demo2\bin\Debug\demo2.exe
+E:\net\练习\learning\demo2\demo2\bin\Debug\demo2.pdb
+E:\net\练习\learning\demo2\demo2\obj\Debug\demo2.csprojResolveAssemblyReference.cache
+E:\net\练习\learning\demo2\demo2\obj\Debug\demo2.exe
+E:\net\练习\learning\demo2\demo2\obj\Debug\demo2.pdb
